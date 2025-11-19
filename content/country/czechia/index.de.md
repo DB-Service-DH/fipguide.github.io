@@ -55,7 +55,7 @@ Bei Cheb können die grenzüberschreitenden Züge der DB Regio mit FIP-Freifahrt
 
 Das gleiche gilt für den nördlichen Grenzübergang Aš. Ähnlich sieht es bei Furth im Wald aus, dort kann der grenzüberschreitende Regionalexpress, der in Tschechien ein EC ist, im tschechischen Abschnitt mit FIP-Ticket der ČD genutzt werden, im deutschen Abschnitt braucht es dagegen ein normales Ticket.
 
-Bei den Grenzübergängen Hrádek nad Nisou (Strecke Zittau – Liberec), Varnsdorf (Strecke Seifhennersdorf – Zittau), Vejprty (Strecke Cranzahl – Chomutov, wird nur im Sommer an Wochenenden und Feiertagen bedient) und Vojtanov (Strecke Zwickau – Cheb) ist FIP derweil nutzlos, da auf beiden Seiten der Grenze die Züge von Privatbahnen, die kein FIP akzeptieren, betrieben werden.
+Bei den Grenzübergängen Hrádek nad Nisou (Strecke Zittau – Liberec), Varnsdorf (Strecke Seifhennersdorf – Zittau), Vejprty (Strecke Cranzahl – Chomutov, wird nur im Sommer an Wochenenden und Feiertagen bedient), Kraslice (Strecke Zwotental - Sokolov) und Vojtanov (Strecke Zwickau – Cheb) ist FIP derweil nutzlos, da auf beiden Seiten der Grenze die Züge von Privatbahnen, die kein FIP akzeptieren, betrieben werden.
 
 ### Österreich
 
